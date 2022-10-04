@@ -1,0 +1,6 @@
+Background Fora do contexto de BD: Designer do sistema de SGBD, Implementação do sistema de SGBD, Pessoal de opereção e manutenção , Desen
+
+Mantém o SGBD disponível para users: Designer do sistema de SGBD, Implementação do sistema de SGBD - Implementam módulos e interfaces do SGBD como um software package;  
+Pessoal de opereção e manutenção - Responsável pelo ambiente de hardware e software para SGBD; 
+Desenvolvedores de ferramentas: Ferramentas opcionais para diversos fins, como: perfomance, modelagem, análise;
+

@@ -1,0 +1,16 @@
+O que é um modelo entidade relacionamento? Modelo conceitual relacionado ao domínio do negócio, representação abstrata dos requisitos do sistema.
+
+O que é o DER - Diagrama entidade relacionamento? É o esquema preparado do MER, são os diagramas desenhados e relacionados como devem ser. 
+	-Raras Modificações
+	-Facilidade de manipular
+	-Esquema de ER do banco de dados
+
+O que são as entidades? são os componentes básicos, a existencia independente e atributos 
+	Entidas <--------------> Objetos
+
+O que são os atributos? são características/Descrição das entidades, atributos relacionados a instância
+
+
+
+Tipos de Entidades:
+

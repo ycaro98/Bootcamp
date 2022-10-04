@@ -1,0 +1,7 @@
+Ganhos com SGBD
+
+- Padronização: Definição dos atributos, estruturas definidas e base de relatórios;
+- Redução de tempo no desenvolvimento da aplicação
+- Flexibilidade
+- Disponibilidade de info up-to-date(imediato)
+- Economia com Escabilidade

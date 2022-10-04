@@ -1,0 +1,19 @@
+Quais são os atores em banco de dados? 
+	- BDs mais simplificados de acesso único para pequenas empresas ou microempreendedores feitos por freelancers
+ 	- Para big organization temos o Design, Usabilidade e a Manutenção para satisfazer os requisitos do sistema;
+	
+
+Designer - Identifica os dados e requisitos do BD, criar a representação e estrutura do BD e iniciará a Frase preliminar(MODELAGEM) desse banco.
+
+Administrador - Gerencia os recursos, orquestra e maneja a autorização de acesso ao banco de dados;
+
+Usuários Finais - Interessados em consumir as informações;
+	Classificação dos Usúarios Finais:
+					 Casuais: acessos ocasionais, Diferentes informações e Uso de APIs;
+					 Ingênuos: Considerável porção, Canned Transactions e Erro: raro;
+					 Sofisticados: conhecimento prévio do sistema, engenheiros, cientistas, analistas;
+					 Standalone: pessoa que tem o proprio DB, só ele tem acesso a base de dados.
+
+SGBD finalidade: Implementar diversos recursos para facilitar a vida dos usuarios de determinado SGB;
+
+Quem programa as Canned Transactions? Os engenheiros de software

@@ -1,0 +1,5 @@
+Esquema de Banco de dados -  Descrição concisa do seu banco de dados, esqueleto do banco de dados representado através de Diagrama;
+
+Contrutores - Dentro de esquema as entidades/objetos são denominados construtores;
+
+Metadados - 

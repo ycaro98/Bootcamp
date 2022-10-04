@@ -1,0 +1,8 @@
+Esse cenário existe? Sim, e está ligado ao custo-benefício e o Custo Overhead
+
+Custo: Investimento Inicial, generalidade na definição e processamento, segurança, controle de concorrência, recovery e funções de integridade
+
+Então quando não usar? Quando o acesso for unário, quando o BD for simples, quando as aplicações são rigorosas (Real time)
+
+Sistemas que não usam sgbd(Real World) - Autocad, sistemas de geolocalização, sistemas de modens como pacotes de internet, etc.
+

@@ -1,0 +1,6 @@
+Como implementar um BD? Para isso é necessário entender o contexto e os requisitos do que preciso, além dos perfis de acesso no meu banco de dados. 
+
+A partir da etapa anterior nos decidimos as etapas de modelagem, implementação, funcionalidades e arquitetura do meu banco de dados.
+
+Como resolver a modelagem? 1º Passo: criar modelo de altonível(modelo conceitual) -> 2º Passo: Modelo Lógico -> 3º Passo: Modelo Físico.
+

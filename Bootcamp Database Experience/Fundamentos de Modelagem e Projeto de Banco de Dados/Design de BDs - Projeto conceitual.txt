@@ -1,0 +1,4 @@
+Como criar o modelo? Existem duas maneiras de conseguirmos representar algo na modelagem de dados, são elas as linguagens gráficas e linguagens textuais.
+
+1º Passo: Requisitos, perguntas a serem respondidas, visões...ou seja, fazer a coleta de dados e análise.
+

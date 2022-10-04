@@ -1,0 +1,22 @@
+Controle de Redundância - Com um SGBD, GARANTIMOS O CONTROLE DA REDUNDANCIA; TODOS OS USUARIOS CONSEGUEM VERIFICAR OS DADOS NO MESMO SISTEMA;
+
+Restrição de acesso -  Autorização e Restrição de acesso predeterminado as categorias de cada usuario;
+
+Provendo Persistência -   refere-se a qualquer forma de armazenamento de dados que for necessária em nosso sistema. O mais usual é utilizar um banco de dados, mas nada impede que sejam utilizadas outras ferramentas, como uma planilha no Excel, um arquivo de texto, etc.
+
+Impedance Mismatch Problem - A falta de uma combinação entre a estrutura determinada em desenvolvimento de software e SGBDs;
+
+Estrutura de armazenamento e técnicas de buscas 
+
+BACKUP E RECOVERY -  Utilizados para segurança e confiabilidade do sistema pra caso tenha falhas ou percas de arquivo, seja possivel recuperar.
+
+Provendo interface Multi-user: Perfis de usuário e interfaces, forma de acesso que atenda a todos os usuários;
+
+Representação de Relações Complexas: Variedade de dados inter-relacionados
+
+Integridade de dados: O SGBD sempre precisa manter estado valido do sistema, precisa ter Integridade de referência e Semântica.
+
+Inferência / Ações com regras / Triggers 
+		
+
+mini-mundo: Mini-mundo ou Universo de Discurso é a representação abstrata de uma pequena parte do mundo real, que é de grande interesse para uma aplicação. É o “problema” que devemos informatizar.

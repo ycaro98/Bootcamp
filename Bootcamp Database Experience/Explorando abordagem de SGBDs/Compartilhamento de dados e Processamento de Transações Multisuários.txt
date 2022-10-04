@@ -1,0 +1,11 @@
+Não adianta ter um sistema multi-tarefa pra que só uma pessoa utilize, por isso, o SGBD precisa prover mecanismo por controle de concorrência, ou seja, manter os dados coerentes.
+
+OLTP - Online transition processing
+ -App Multiuser: Acesso ao SGBD, Cálculo lógico, Unidade de trabalho;
+ -Gerenciador: transações concorrentes
+ 	Execução sem interferência <-> Isolamento ,e ou, Atomicidade
+
+Qual o contexto? O OLTP está relacionado ao contexto de Transaction-driven que são as Decisões tomadas a partir de transações.
+
+
+

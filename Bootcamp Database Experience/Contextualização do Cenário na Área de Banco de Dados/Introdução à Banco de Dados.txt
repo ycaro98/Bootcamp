@@ -1,0 +1,23 @@
+Trilha de Banco de Dados Relacional 
+
+O que são banco de dados(database)?  Um conjunto de dados que transmitem informação. "Podemos considerar como banco de dados um conjunto, uma coleção de palavras que dentre elas há relacionamento entre dados, constituindo-o então".
+
+O que são dados? São efetivamente um fato, fato esse que necessita ser lapidado para se tornar uma informação.
+
+SGBD/DBMS - Sistema de Gerenciamento de Banco de Dados/ Database Manegement System
+
+Divisão SGBD: 
+	1º Definição: Tipo de dados, Estrutura e Constrains;
+	2º Construção: Inserção de dados através de uma determinada estrutura;
+	3º Manipulação: Recuperação de formações, gerar relatórios;
+	4º Compartilhamento: Simultaneidade de acessos para pessoas, gerenciar acessos simultaneos;
+Obs.: O SGBD tem um ciclo de vida de longo prazo e proteção de mal funcionamento e acessos indevidos.
+
+Metadados: Informações que fornecem uma descrição concisa dos dados contidos no Banco de Dados.
+  
+Compartilhamento: Por padrão o Banco de Dados realiza o bloqueio e a liberação das tabelas.
+
+Modelo de banco de dados Relacional - Foi criado em 1970 por Edgar F. Codd, pesquisador da IBM. O Modelo foi e é utilizado até hoje desde sua criação pela sua transparência e mais facilidade de armazenamento do que seus antecessores.
+
+
+

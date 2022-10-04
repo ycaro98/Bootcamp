@@ -1,0 +1,6 @@
+program-data independence - a independencia dos programas e dados dentro do modelo de BD
+
+Abstração de SGBDs- Independência do programa e dados, generalizar os dados;
+Transparência do SGBDs - transparência nas informações do sgbd;
+
+Isolamento - toda informação de estruturação do banco de dados, ou seja, o catálogo de dados.

@@ -1,0 +1,2 @@
+Natureza Auto-descritiva: Descrição da estrutura e regras bem definidas que regem o contexto representado pelos dados, para isso utiliza-se o chamado DB schema(estrutura bem definida dos dados sem a inserção dos dados). 
+Obs.: NoSQL não possui essa natureza. 

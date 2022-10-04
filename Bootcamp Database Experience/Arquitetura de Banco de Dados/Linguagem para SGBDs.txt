@@ -1,0 +1,17 @@
+Linguagens (DDL- Data Definition Language) - forma de associar e definir objetos e informações no banco de dados. Uma linguagem de definição de conteúdo.
+
+Storage definition language - Linguagem relacionada a definição/armazenamento de dados.
+
+VDL - Relacionada aos views; É a lingaugem onde conseguimos representar um contexto limitado para um conjunto de pessoas.
+
+DML - Linguagem onde conseguimos inserir, recuperar, atualizar e verificar as informações do bd
+	DML é divido em duas etapas: Alto Nível/ Não Procedural e Baixo Nível / Procedural 
+
+
+
+
+
+
+
+
+

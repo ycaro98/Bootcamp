@@ -1,0 +1,11 @@
+Interfaces: interface de consulta, consumo dos dados de inserção.
+
+Web Client - Baseado em lista - Requisições e Estrutura
+App Mobile - Acesso à dados - Bancos, reservas...
+Forms - Interface p/novos dados - Preenchimento total ou parcial
+GUI - Interface: Diagrama - Query -> manipulando o diagrama
+NLI - Interpreta a ling. natural
+Pesquisa Keyword - Macth: palavra/doc
+Speech input/output - Contexto limitado
+Interfaces - Naive: Operações repetitivas
+	   -  DBA: DBA Staff - Comandos com nível de privilégio

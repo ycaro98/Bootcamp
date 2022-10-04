@@ -1,0 +1,1 @@
+Existem paramentros para essa classificação começando pelo Modelo de dados, nº de usuários, nº de sites, Custo e Tipo de caminho de acesso

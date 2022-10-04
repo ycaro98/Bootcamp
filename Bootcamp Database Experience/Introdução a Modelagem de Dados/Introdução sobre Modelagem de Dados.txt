@@ -1,0 +1,51 @@
+Compreensão do sistema - Modelar os dados significar montar uma base, desenhar e gerenciar um esboço para que possa criar aquele produto com mais resistencia e segurança.
+
+Ex.: Construção da casa
+Construção -> Desenvolvimento -> Eletrônicos
+Plantas Baixas -> Protótipos -> Esquemas de circuitos
+
+Modelagem - Representação, um modelo ou uma referência
+
+Modelagem é usado em software, dados, conteito, computação, processo de negócios, matematica...
+
+Modelagem em banco de dados possui foco na descrição e relacionamento dos elementos que compõem a representação do contexto (mini-mundo)
+
+Fases da modelagem:
+Mini-mundo: delimita o contexto dos dados
+Alto nível: Requisito para criação dos modelos
+Esquema: Definindo estrutura relacional
+SGBD: Implementando - criando o BD
+
+Esquema da modelagem: Facilita a compreensão do contexto dos dados
+
+Modelos de alto nível:
+ -Entidade-Relacionamento;
+ -UML(Unified Modeling Language);
+
+Como inserir as infos no BD?
+Linguagem Declarativa (SQL) - CREATE, ALTER, DROP...SELECT, INSERT, UPDATE...
+
+Primeiro exemplo de SQL
+
+CREATE DATABASE firstexample;
+CREATE TABLE periodicos(
+	id integer,            <- Primary key
+	nome varchar(120),
+	iss integer
+	PRIMARY KEY(id)
+	FOREIGN KEY (id) REFERENCES editora(id)
+);
+
+CREATE TABLE editora(
+	id integer,            
+	nome_editora varchar(120),
+	Pais integer
+	PRIMARY KEY(id)
+);
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+Por que utilizar SGBDs? Facilita a consulta através de estruturas mais simplicadas que se relacionam.
+Características principais:
+ -Abstração -Auto-descrição
+ -Isolamento -Compartilhamento
+ -Múltiplas visões -transação multiuser
+
+

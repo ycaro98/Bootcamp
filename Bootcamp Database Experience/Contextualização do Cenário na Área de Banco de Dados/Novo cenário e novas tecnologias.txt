@@ -1,0 +1,16 @@
+Perfis de Mercado de Data
+
+Engenheiro de Dados -  Extração de dados de fontes heterogêneas/ Disponibilizar os dados para serem consumidos pelos analistas e cientistas.
+- Desenho/ Construção
+- Sustenação das soluções de dados
+
+Cientista de Dados - Busca responder perguntas atreladas ao contexto do negócio. Buscando insights através de técnicas de modelagem.
+- Modelagem
+- Reconhecimento de padrões/ Predição
+
+Analista de Dados - Busca entender o comportamento do negócio a partir dos dados. Realiza o diagnóstico, identifica possíveis motivos para comportamentos e verifica métricas.
+- Criação de dashboards
+- Apresentação visual de dados 
+
+Data-driven: Abordagem que consiste em três etapas analise - entenda - decisão e o foco central é no Consumidor.
+

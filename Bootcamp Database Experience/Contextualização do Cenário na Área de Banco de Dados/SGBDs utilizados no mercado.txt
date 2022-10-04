@@ -1,0 +1,12 @@
+Ranking 2022 
+ 
+1º Oracle
+2º MySQL
+3º SQL Server
+4º PostgreSQL
+5º mongoDB
+6º Redis
+7º ElasticSearch
+9º ACESS WINDOWS
+11º cassandra
+12º MariaDB
